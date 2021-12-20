@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.songmp3/com.example.songmp3.HelloApplication</mainClass>
+                            <mainClass>com.example.songmp3/com.example.songmp3.MyTunesApplication</mainClass>
                         </configuration>
                     </execution>
                 </executions>
